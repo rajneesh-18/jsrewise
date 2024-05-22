@@ -26,3 +26,8 @@ let isLoggedIn = false
 // object
 
 console.log(typeof null);
+let score = "33"
+console.log(typeof score);
+
+let valuaInNumber = Number(score)
+console.log(typeof valuaInNumber);

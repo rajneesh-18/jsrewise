@@ -31,3 +31,5 @@ console.log(typeof score);
 
 let valuaInNumber = Number(score)
 console.log(typeof valuaInNumber);
+
+// going out today will resume it from tomorrow at 1 am
